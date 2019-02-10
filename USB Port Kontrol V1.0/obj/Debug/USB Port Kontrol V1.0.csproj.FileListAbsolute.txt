@@ -1,0 +1,58 @@
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\USB Port Kontrol V1.0.exe
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\MetroFramework.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\obj\Debug\Interop.DMVIEW2Lib.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\obj\Debug\Interop.MMC20.dll
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\obj\Debug\USB Port Kontrol V1.0.csproj.ResolveComReference.cache
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\obj\Debug\USB_Port_Kontrol_V1._0.Form1.resources
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\obj\Debug\USB_Port_Kontrol_V1._0.Giris.resources
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\obj\Debug\USB_Port_Kontrol_V1._0.Properties.Resources.resources
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\obj\Debug\USB Port Kontrol V1.0.csproj.GenerateResource.Cache
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\obj\Debug\USB Port Kontrol V1.0.exe.licenses
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\obj\Debug\USB Port Kontrol V1.0.exe
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\obj\Debug\USB Port Kontrol V1.0.pdb
+C:\Users\Ozzy\documents\visual studio 2017\Projects\USB Port Kontrol V1.0\USB Port Kontrol V1.0\bin\Debug\USB Port Kontrol V1.0.pdb
